@@ -1,4 +1,9 @@
 The challenge took me 3 hours. I completed the challenge and can get my gold medal :)
+screenshots:
+<img width="313" alt="Screenshot 2025-05-02 at 22 14 52" src="https://github.com/user-attachments/assets/6156bed4-10e8-48be-83d4-4df5af29709f" />
+<img width="607" alt="Screenshot 2025-05-02 at 22 14 58" src="https://github.com/user-attachments/assets/05241318-27da-4882-8d37-bae52f653180" />
+
+
 
 # Calculator Layout Boss Challenge
 
@@ -6,9 +11,7 @@ No knowledge is your own until you put it into practice. Using what you've learn
 
 ## Portrait
 
-![Portrait](Documentation/Portrait.png)<img width="607" alt="Screenshot 2025-05-02 at 22 14 58" src="https://github.com/user-attachments/assets/5d3596f4-fa9f-4378-9335-47a597d9f7ee" />
-<img width="313" alt="Screenshot 2025-05-02 at 22 14 52" src="https://github.com/user-attachments/assets/a43e4640-b5b3-4c28-b6cb-b1f7f60690ca" />
-
+![Portrait](Documentation/Portrait.png)
 
 ## Landscape
 ![Landscape](Documentation/Landscape.png)
