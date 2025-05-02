@@ -1,4 +1,13 @@
 The challenge took me 3 hours. I completed the challenge and can get my gold medal :)
+What Did I Learn?
+* How to add constraints and understand how auto layout
+works.
+* How to Pin and Align UI elements.
+* How to create containers to configure advanced layouts.
+* How to debug auto layout errors.
+* Understand the pre-requisites to automatic layout.
+*  How to use stack views to easily layout your UI.
+
 screenshots:
 <img width="313" alt="Screenshot 2025-05-02 at 22 14 52" src="https://github.com/user-attachments/assets/6156bed4-10e8-48be-83d4-4df5af29709f" />
 <img width="607" alt="Screenshot 2025-05-02 at 22 14 58" src="https://github.com/user-attachments/assets/05241318-27da-4882-8d37-bae52f653180" />
